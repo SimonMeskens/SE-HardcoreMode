@@ -5,6 +5,10 @@ A more challenging survival mode for Space Engineers. There's two mods, one cont
 
 ### Download: [Latest Version](https://github.com/SimonMeskens/Space-Engineers-Hardcore-Mode/releases/latest)
 
+![Screenshot 1](https://raw.githubusercontent.com/SimonMeskens/Space-Engineers-Hardcore-Mode/master/screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/SimonMeskens/Space-Engineers-Hardcore-Mode/master/screenshot2.png)
+![Screenshot 3](https://raw.githubusercontent.com/SimonMeskens/Space-Engineers-Hardcore-Mode/master/screenshot3.png)
+
 Hardcore Scenarios
 ------------------
 Note: In sparse generation, it's advised to generate as many asteroids as possible. It's tough enough to find asteroids in sparse generation, generating more won't affect difficulty.
