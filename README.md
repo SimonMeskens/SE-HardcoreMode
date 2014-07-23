@@ -10,23 +10,23 @@ Hardcore Scenarios
 Note: In sparse generation, it's advised to generate as many asteroids as possible. It's tough enough to find asteroids in sparse generation, generating more won't affect difficulty.
 
 ### Sparse Asteroids
-__Difficulty__: Medium
-__Generation__: Sparse
+__Difficulty__: Medium  
+__Generation__: Sparse  
 __Explanation__: Sparse Asteroids is like regular asteroids, but the distance between large asteroids is huge. You'll need to explore to find more. You're guaranteed to spawn near asteroids though.
 
 ### Hardcore
-__Difficulty__: Hard
-__Generation__: Normal
+__Difficulty__: Hard  
+__Generation__: Normal  
 __Explanation__: You start with a small wrecked ship, which has the barebones components to create everything you need. You'll need to grind it down to get the necessary resources. Generation is almost as dense as default.
 
 ## Sparse Hardcore
-__Difficulty__: Very Hard
-__Generation__: Sparse
+__Difficulty__: Very Hard  
+__Generation__: Sparse  
 __Explanation__: Sparse Hardcore is the same as hardcore, but with sparse generation. This is what is considered the "default" hardcore mode, which the hardcore mod is balanced for.
 
 ## Super Hardcore
-__Difficulty__: Super Hard
-__Generation__: Sparse+
+__Difficulty__: Super Hard  
+__Generation__: Sparse+  
 __Explanation__: This is almost the same as Sparse Hardcore, but you are not guaranteed to spawn near asteroids. Getting your ship running with just the starting resources, so you can travel towards an asteroid and even finding asteroids can take hours. This is the ultimate challenge, but it's not recommended unless you like pain, as it can sometimes be very hard to locate asteroids, even if you can get the ship running.
 
 Hardcore Mode
