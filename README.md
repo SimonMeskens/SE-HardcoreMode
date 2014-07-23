@@ -64,12 +64,22 @@ Credits
 
 Hardcore Mode Changelog
 -----------------------
+__version 0.2__:
+* Cubes: Changed Max Power Output of large block solar panels to 250kW
+* Cubes: Changed Max Power Output of small block solar panels to 60kW
+* Cubes: Changed Max Power Output of small block small reactors to 200kW
+* Cubes: Changed Max Power Output of large block small reactors to 10MW
+* Cubes: Changed Max Power Output of small block large reactors to 5MW
+* Cubes: Changed Max Power Output of large block large reactors to 200MW
+* Cubes: Made large block small thrusters craftable, changed their Max Power Consumption to 1.4MW
+* Cubes: Changed Max Power Consumption of large block large thrusters to 16.8MW
+* Cubes: Changed Required Power Input of large block ore detector to 7.16MW
 __version 0.1__:
 * Components: Added _Unobtainium_, a component to make blocks non-craftable
 * Blueprints: Changed ore to ingot recipes to be less efficient
 * Spawngroups: Biased spawning of passing military
 * Textures: Color coded non-craftables
-* Cubes: Changed Max Power Output of large solar panels to 25MW
+* Cubes: Changed Max Power Output of large block solar panels to 25MW
 * Cubes: Made small block solar panels non-craftable, changed their Max Power Output to 1MW
 * Cubes: Made small block small reactors non-craftable, changed their Max Power Output to 1MW
 * Cubes: Made large block small reactors non-craftable, changed their Max Power Output to 15MW
@@ -79,7 +89,7 @@ __version 0.1__:
 * Cubes: Made small block grinders non-craftable
 * Cubes: Made small block large thrusters non-craftable
 * Cubes: Made large block small thrusters non-craftable, changed their Max Power Consumption to 2.8MW
-* Cubes: Changed large block large thrusters Max Power Consumption to 33.6MW
+* Cubes: Changed Max Power Consumption of large block large thrusters to 33.6MW
 * Cubes: Changed large block ore detector range to 15km, changed their Required Power Input to 3.58MW
 
 Hardcore Scenarios Changelog

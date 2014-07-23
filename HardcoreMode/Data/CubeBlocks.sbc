@@ -43,7 +43,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <!-- GILMOD BEGIN -->
-            <MaxPowerOutput>25</MaxPowerOutput>
+            <MaxPowerOutput>0.25</MaxPowerOutput>
             <!-- GILMOD END -->
             <PanelOrientation>
                 <X>0</X>
@@ -98,7 +98,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <!-- GILMOD BEGIN -->
-            <MaxPowerOutput>1</MaxPowerOutput>
+            <MaxPowerOutput>0.06</MaxPowerOutput>
             <!-- GILMOD END -->
             <PanelOrientation>
                 <X>0</X>
@@ -155,7 +155,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>20</BuildTimeSeconds>
             <!-- GILMOD BEGIN -->
-            <MaxPowerOutput>1.0</MaxPowerOutput>
+            <MaxPowerOutput>0.2</MaxPowerOutput>
             <!-- GILMOD END -->
             <InventorySize>
                 <X>0.5</X>
@@ -209,7 +209,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <!-- GILMOD BEGIN -->
-            <MaxPowerOutput>15</MaxPowerOutput>
+            <MaxPowerOutput>10</MaxPowerOutput>
             <!-- GILMOD END -->
             <InventorySize>
                 <X>1</X>
@@ -266,7 +266,7 @@
             <BuildTimeSeconds>35</BuildTimeSeconds>
             <EdgeType>Light</EdgeType>
             <!-- GILMOD BEGIN -->
-            <MaxPowerOutput>3.5</MaxPowerOutput>
+            <MaxPowerOutput>5</MaxPowerOutput>
             <!-- GILMOD END -->
             <InventorySize>
                 <X>1</X>
@@ -321,7 +321,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <!-- GILMOD BEGIN -->
-            <MaxPowerOutput>500</MaxPowerOutput>
+            <MaxPowerOutput>200</MaxPowerOutput>
             <!-- GILMOD END -->
             <InventorySize>
                 <X>2</X>
@@ -494,7 +494,6 @@
             <Size x="1" y="1" z="2" />
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\ThrustSmall</Model>
-            <!-- GILMOD BEGIN -->
             <Components>
                 <Component Subtype="SteelPlate" Count="15" />
                 <Component Subtype="Construction" Count="40" />
@@ -502,11 +501,8 @@
                 <Component Subtype="Thrust" Count="80" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
-                <Component Subtype="Unobtainium" Count="1" />
             </Components>
-            <!--<CriticalComponent Subtype="Thrust" Index="0" />-->
-            <CriticalComponent Subtype="Unobtainium" Index="0" />
-            <!-- GILMOD END -->
+            <CriticalComponent Subtype="Thrust" Index="0" />
             <MountPoints>
                 <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" />
                 <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" />
@@ -528,7 +524,7 @@
             <MovementCoefficient>2</MovementCoefficient>
             <ForceMagnitude>100000</ForceMagnitude>
             <!-- GILMOD BEGIN -->
-            <MaxPowerConsumption>2.8</MaxPowerConsumption>
+            <MaxPowerConsumption>1.4</MaxPowerConsumption>
             <!-- GILMOD END -->
             <MinPowerConsumption>0.000002</MinPowerConsumption>
             <DamageAreaSize>0.375</DamageAreaSize>
@@ -578,7 +574,7 @@
             <MovementCoefficient>4</MovementCoefficient>
             <ForceMagnitude>1200000</ForceMagnitude>
             <!-- GILMOD BEGIN -->
-            <MaxPowerConsumption>33.6</MaxPowerConsumption>
+            <MaxPowerConsumption>16.8</MaxPowerConsumption>
             <!-- GILMOD END -->
             <MinPowerConsumption>0.000002</MinPowerConsumption>
             <DamageAreaSize>0.75</DamageAreaSize>
@@ -626,7 +622,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <!-- GILMOD BEGIN -->
             <MaximumRange>150000</MaximumRange>
-            <RequiredPowerInput>3.58</RequiredPowerInput>
+            <RequiredPowerInput>7.16</RequiredPowerInput>
             <!-- GILMOD END -->
         </Definition>
     </CubeBlocks>
