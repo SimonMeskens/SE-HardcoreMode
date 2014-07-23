@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Blueprints>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Stone" />
+            </Prerequisites>
+            <Result Amount="0.9" TypeId="Ingot" SubtypeId="Stone" />
+            <BaseProductionTimeInSeconds>0.3</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="0.7" TypeId="Ingot" SubtypeId="Iron" />
+            <BaseProductionTimeInSeconds>0.27</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Nickel" />
+            </Prerequisites>
+            <Result Amount="0.4" TypeId="Ingot" SubtypeId="Nickel" />
+            <BaseProductionTimeInSeconds>7.2</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Cobalt" />
+            </Prerequisites>
+            <Result Amount="0.3" TypeId="Ingot" SubtypeId="Cobalt" />
+            <BaseProductionTimeInSeconds>7.2</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="0.007" TypeId="Ingot" SubtypeId="Magnesium" />
+            <BaseProductionTimeInSeconds>3.6</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Silicon" />
+            </Prerequisites>
+            <Result Amount="0.7" TypeId="Ingot" SubtypeId="Silicon" />
+            <BaseProductionTimeInSeconds>3.6</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Silver" />
+            </Prerequisites>
+            <Result Amount="0.1" TypeId="Ingot" SubtypeId="Silver" />
+            <BaseProductionTimeInSeconds>2</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Gold" />
+            </Prerequisites>
+            <Result Amount="0.01" TypeId="Ingot" SubtypeId="Gold" />
+            <BaseProductionTimeInSeconds>1.7</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Platinum" />
+            </Prerequisites>
+            <Result Amount="0.005" TypeId="Ingot" SubtypeId="Platinum" />
+            <BaseProductionTimeInSeconds>9</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Uranium" />
+            </Prerequisites>
+            <Result Amount="0.007" TypeId="Ingot" SubtypeId="Uranium" />
+            <BaseProductionTimeInSeconds>17</BaseProductionTimeInSeconds>
+        </Blueprint>
+    </Blueprints>
+</Definitions>

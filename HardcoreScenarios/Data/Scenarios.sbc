@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Scenarios>
+        <ScenarioDefinition>
+            <Id>
+                <TypeId>ScenarioDefinition</TypeId>
+                <SubtypeId>SparseAsteroids</SubtypeId>
+            </Id>
+            <DisplayName>Sparse Asteroids</DisplayName>
+            <Description>MEDIUM: Start in a rescue ship with limited resources near a big, sparse asteroid field</Description>
+            <Icon>Textures\GUI\Icons\scenarios\PreviewAsteroids</Icon>
+            <AsteroidClusters Enabled="true" Offset="18500" CentralCluster="true" />
+            <PossibleStartingStates>
+                <StartingState JetpackEnabled="true" DampenersEnabled="true">
+                    <Transform>
+                        <Position x="61.20133" y="1.56743944" z="-65.2679749" />
+                        <Forward x="-0.551659048" y="-0.250326127" z="0.7956187" />
+                        <Up x="0.462239534" y="0.7022548" z="0.5414545" />
+                    </Transform>
+                </StartingState>
+            </PossibleStartingStates>
+            <WorldGeneratorOperations>
+                <Operation xsi:type="AddShipPrefab" PrefabFile="RespawnShip">
+                    <Transform>
+                        <Position x="23.2746315" y="-24.6763668" z="-14.7892952" />
+                        <Forward x="0.7403886" y="-0.647840142" z="-0.179242715" />
+                        <Up x="0.392077923" y="0.6328235" z="-0.6676895" />
+                    </Transform>
+                </Operation>
+            </WorldGeneratorOperations>
+        </ScenarioDefinition>
+        <ScenarioDefinition>
+            <Id>
+                <TypeId>ScenarioDefinition</TypeId>
+                <SubtypeId>Hardcore</SubtypeId>
+            </Id>
+            <DisplayName>Hardcore</DisplayName>
+            <Description>HARD: Start in a wrecked ship with VERY limited resources near a small, dense asteroid field</Description>
+            <Icon>Textures\GUI\Icons\scenarios\PreviewHardcore</Icon>
+            <AsteroidClusters Enabled="true" Offset="1000" CentralCluster="true" />
+            <PossibleStartingStates>
+                <StartingState JetpackEnabled="true" DampenersEnabled="true">
+                    <Transform>
+                        <Position x="61.20133" y="1.56743944" z="-65.2679749" />
+                        <Forward x="-0.551659048" y="-0.250326127" z="0.7956187" />
+                        <Up x="0.462239534" y="0.7022548" z="0.5414545" />
+                    </Transform>
+                </StartingState>
+            </PossibleStartingStates>
+            <WorldGeneratorOperations>
+                <Operation xsi:type="AddShipPrefab" PrefabFile="MinimalShip">
+                    <Transform>
+                        <Position x="23.2746315" y="-24.6763668" z="-14.7892952" />
+                        <Forward x="0.7403886" y="-0.647840142" z="-0.179242715" />
+                        <Up x="0.392077923" y="0.6328235" z="-0.6676895" />
+                    </Transform>
+                </Operation>
+            </WorldGeneratorOperations>
+        </ScenarioDefinition>
+        <ScenarioDefinition>
+            <Id>
+                <TypeId>ScenarioDefinition</TypeId>
+                <SubtypeId>SparseHardcore</SubtypeId>
+            </Id>
+            <DisplayName>Sparse Hardcore</DisplayName>
+            <Description>VERY HARD: Start in a wrecked ship with VERY limited resources near a big, sparse asteroid field</Description>
+            <Icon>Textures\GUI\Icons\scenarios\PreviewHardcore</Icon>
+            <AsteroidClusters Enabled="true" Offset="18500" CentralCluster="true" />
+            <PossibleStartingStates>
+                <StartingState JetpackEnabled="true" DampenersEnabled="true">
+                    <Transform>
+                        <Position x="61.20133" y="1.56743944" z="-65.2679749" />
+                        <Forward x="-0.551659048" y="-0.250326127" z="0.7956187" />
+                        <Up x="0.462239534" y="0.7022548" z="0.5414545" />
+                    </Transform>
+                </StartingState>
+            </PossibleStartingStates>
+            <WorldGeneratorOperations>
+                <Operation xsi:type="AddShipPrefab" PrefabFile="MinimalShip">
+                    <Transform>
+                        <Position x="23.2746315" y="-24.6763668" z="-14.7892952" />
+                        <Forward x="0.7403886" y="-0.647840142" z="-0.179242715" />
+                        <Up x="0.392077923" y="0.6328235" z="-0.6676895" />
+                    </Transform>
+                </Operation>
+            </WorldGeneratorOperations>
+        </ScenarioDefinition>
+        <ScenarioDefinition>
+            <Id>
+                <TypeId>ScenarioDefinition</TypeId>
+                <SubtypeId>SuperHardcore</SubtypeId>
+            </Id>
+            <DisplayName>Super Hardcore</DisplayName>
+            <Description>SUPER HARD: Start in a wrecked ship with VERY limited resources far from any asteroids</Description>
+            <Icon>Textures\GUI\Icons\scenarios\PreviewSuperHardcore</Icon>
+            <AsteroidClusters Enabled="true" Offset="18500" CentralCluster="false" />
+            <PossibleStartingStates>
+                <StartingState JetpackEnabled="true" DampenersEnabled="true">
+                    <Transform>
+                        <Position x="61.20133" y="1.56743944" z="-65.2679749" />
+                        <Forward x="-0.551659048" y="-0.250326127" z="0.7956187" />
+                        <Up x="0.462239534" y="0.7022548" z="0.5414545" />
+                    </Transform>
+                </StartingState>
+            </PossibleStartingStates>
+            <WorldGeneratorOperations>
+                <Operation xsi:type="AddShipPrefab" PrefabFile="MinimalShip">
+                    <Transform>
+                        <Position x="23.2746315" y="-24.6763668" z="-14.7892952" />
+                        <Forward x="0.7403886" y="-0.647840142" z="-0.179242715" />
+                        <Up x="0.392077923" y="0.6328235" z="-0.6676895" />
+                    </Transform>
+                </Operation>
+            </WorldGeneratorOperations>
+        </ScenarioDefinition>
+    </Scenarios>
+</Definitions>

@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpawnGroups>
+    <SpawnGroup>
+      <Frequency>64.0</Frequency>
+      <Prefabs>
+        <Prefab File="Military1">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Military Escort</BeaconText>
+          <Speed>25.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>4.0</Frequency>
+      <Prefabs>
+        <Prefab File="Military2">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Military Minelayer</BeaconText>
+          <Speed>17.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>1.0</Frequency>
+      <Prefabs>
+        <Prefab File="Military3">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Military Transporter</BeaconText>
+          <Speed>10.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>16.0</Frequency>
+      <Prefabs>
+        <Prefab File="Mining1">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Mining Carriage</BeaconText>
+          <Speed>25.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>2.0</Frequency>
+      <Prefabs>
+        <Prefab File="Mining2">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Mining Transport</BeaconText>
+          <Speed>17.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>1.0</Frequency>
+      <Prefabs>
+        <Prefab File="Mining3">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Mining Hauler</BeaconText>
+          <Speed>10.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>4.0</Frequency>
+      <Prefabs>
+        <Prefab File="Trade1">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Private Sail</BeaconText>
+          <Speed>25.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>2.0</Frequency>
+      <Prefabs>
+        <Prefab File="Trade2">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Business Shipment</BeaconText>
+          <Speed>17.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Frequency>1.0</Frequency>
+      <Prefabs>
+        <Prefab File="Trade3">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <BeaconText>Commercial Freighter</BeaconText>
+          <Speed>10.0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+  </SpawnGroups>
+</Definitions>
