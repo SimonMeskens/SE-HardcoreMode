@@ -1,0 +1,19 @@
+Installation
+============
+
+This mod should be future-compatible, but if new game versions introduce balance changes, it might not be balanced anymore.
+
+This mod is not meant to be played with other mods, they might wreck the balance. Mod authors might note that their mod is balance compatible with this mod, in which case it might be safe to run them, but the only authority in this respect is the author of this mod, Simon Meskens.
+
+Installing Hardcore Scenarios
+-----------------------------
+
+Copy the folder HardcoreScenarios to %appdata%\SpaceEngineers\Mods
+
+Installing Hardcore Mode
+------------------------
+
+Copy the folder HardcoreMode to %appdata%\SpaceEngineers\Mods
+
+
+That's it! Launch the game and have fun!
