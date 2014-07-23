@@ -74,6 +74,7 @@ __version 0.2__:
 * Cubes: Made large block small thrusters craftable, changed their Max Power Consumption to 1.4MW
 * Cubes: Changed Max Power Consumption of large block large thrusters to 16.8MW
 * Cubes: Changed Required Power Input of large block ore detector to 7.16MW
+
 __version 0.1__:
 * Components: Added _Unobtainium_, a component to make blocks non-craftable
 * Blueprints: Changed ore to ingot recipes to be less efficient
