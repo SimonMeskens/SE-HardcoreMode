@@ -41,11 +41,18 @@ Note: when generating a world, turn on passing cargo ships, or you won't be able
 
 The main mechanics are:
 
-* __Refining__: refining is way less efficient, so resources become more scarce and automated mining becomes a priority. The ore detector has a huge range and power consumption now, so you can use it to find more asteroids more easily.
-* __Ship Size Differences__: ship sizes matter. Small ships will be battery powered and need a recharge station, large ships require tons of power, while stations can be mostly run on solar. There's also a difference in which tools are available. Small ships are for drilling, large ships are for grinding.
-* __Non-craftable Blocks__: certain blocks are not craftable, like reactors, small ship grinders, small ship solar panels and large ship drills. This makes capturing passing cargo vessels essential if you want those items, especially the reactors. Large thruster power consumption was dramatically increased, so if you want to use those, salvaging reactors becomes a necessity. Note that you can't deconstruct non-craftables and re-craft them, so you'll have to use tugs and merge blocks to install them in your ships. Also note that blocks have been color coded in the block screen. Orange blocks can only be crafted for a certain size of ship, red blocks can't be crafted for any size. The non-craftables will have a component that says "NOT CRAFTABLE".
-* __Power Generation__: reactors are non-craftable, solars can only be installed on large ships, but most forms of power generation have been significantly made better, so solar is actually usable and salvaging a large reactor is a real upgrade.
-* __Passing Cargo Ships__: passing cargo ships have been altered so you'll see more military ships. Be careful out there!
+* __Refining__:  
+  refining is way less efficient, so resources become more scarce and automated mining becomes a priority. The ore detector has a huge range and power consumption now, so you can use it to find more asteroids more easily.
+* __Ship Size Differences__:  
+  ship sizes matter. Small ships will be battery powered and need a recharge station, large ships require tons of power, while stations can be mostly run on solar. There's also a difference in which tools are available. Small ships are for drilling, large ships are for grinding.
+* __Non-craftable Blocks__:  
+  certain blocks are not craftable, like reactors, small ship grinders, small ship solar panels and large ship drills. This makes capturing passing cargo vessels essential if you want those items, especially the reactors. Large thruster power consumption was dramatically increased, so if you want to use those, salvaging reactors becomes a necessity.  
+  Note that you can't deconstruct non-craftables and re-craft them, so you'll have to use tugs and merge blocks to install them in your ships.  
+  Also note that blocks have been color coded in the block screen. Orange blocks can only be crafted for a certain size of ship, red blocks can't be crafted for any size. The non-craftables will have a component that says "NOT CRAFTABLE".
+* __Power Generation__:  
+  reactors are non-craftable, solars can only be installed on large ships, but most forms of power generation have been significantly made better, so solar is actually usable and salvaging a large reactor is a real upgrade.
+* __Passing Cargo Ships__:  
+  passing cargo ships have been altered so you'll see more military ships. Be careful out there!
 
 Credits
 -------
