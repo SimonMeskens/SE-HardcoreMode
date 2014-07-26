@@ -66,11 +66,13 @@ Credits
 Hardcore Mode Changelog
 -----------------------
 __version 0.3__:
+
 * Components: Removed _Unobtainium_
 * Cubes: Changed the method for making blocks non-craftable (Issue/2)
 * Removed unneeded textures
 
 __version 0.2__:
+
 * Cubes: Changed Max Power Output of large block solar panels to 250kW
 * Cubes: Changed Max Power Output of small block solar panels to 60kW
 * Cubes: Changed Max Power Output of small block small reactors to 200kW
@@ -82,6 +84,7 @@ __version 0.2__:
 * Cubes: Changed Required Power Input of large block ore detector to 7.16MW
 
 __version 0.1__:
+
 * Components: Added _Unobtainium_, a component to make blocks non-craftable
 * Blueprints: Changed ore to ingot recipes to be less efficient
 * Spawngroups: Biased spawning of passing military
@@ -102,9 +105,11 @@ __version 0.1__:
 Hardcore Scenarios Changelog
 ----------------------------
 __version 0.3__:
+
 * Added scenario preview textures
 
 __version 0.1__:
+
 * Added _MinimalShip_, a shipwreck
 * Added _Sparse Asteroids_ scenario
 * Added _Hardcore_ scenario
